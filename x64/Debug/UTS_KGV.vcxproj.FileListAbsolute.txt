@@ -1,0 +1,3 @@
+C:\Users\Sutan\source\repos\UTS_KGV\x64\Debug\UTS_KGV.exe
+C:\Users\Acer\Documents\GLFWProjects\UTS_KGV\x64\Debug\UTS_KGV.exe
+C:\Users\ASUS\OneDrive\Documents\KGVOPENGL\UTS_KGV\x64\Debug\UTS_KGV_COOK.exe

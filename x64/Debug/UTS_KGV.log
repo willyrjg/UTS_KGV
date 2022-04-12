@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (UTS_KGV.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  UTS_KGV.cpp
+C:\Users\ASUS\OneDrive\Documents\KGVOPENGL\UTS_KGV\UTS_KGV.cpp(90,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\OneDrive\Documents\KGVOPENGL\UTS_KGV\UTS_KGV.cpp(169,37): warning C4244: 'argument': conversion from 'unsigned int' to 'GLfloat', possible loss of data
+C:\Users\ASUS\OneDrive\Documents\KGVOPENGL\UTS_KGV\UTS_KGV.cpp(173,38): warning C4244: 'argument': conversion from 'unsigned int' to 'GLfloat', possible loss of data
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\ASUS\OneDrive\Documents\KGVOPENGL\UTS_KGV\x64\Debug\vc120.pdb'; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  UTS_KGV.vcxproj -> C:\Users\ASUS\OneDrive\Documents\KGVOPENGL\UTS_KGV\x64\Debug\UTS_KGV_COOK.exe
